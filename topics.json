@@ -1,62 +1,8 @@
 [
-  {
-    "slug": "uzayda-aglamak", "title": "Uzayda ağlarsan gözyaşların ne olur?", "theme": "space", "tags": ["uzay", "bilim", "astronot", "shorts"],
-    "scenes": [
-      {"headline": "UZAYDA AĞLARSAN?", "narration": "Uzayda ağlarsan gözyaşların yere düşmez."},
-      {"headline": "NEDEN DÜŞMEZ?", "narration": "Çünkü yörüngedeki astronotlar ve istasyon sürekli serbest düşüş hâlindedir."},
-      {"headline": "GÖZÜNDE BİRİKİR", "narration": "Gözyaşları yüzey gerilimiyle gözünün çevresinde birikir."},
-      {"headline": "GÖRÜŞÜ BULANDIRIR", "narration": "Biriken sıvı görüşünü bulanıklaştırabilir. Bu yüzden astronotlar onu mendille siler."},
-      {"headline": "ŞAŞIRTICI, DEĞİL Mİ?", "narration": "Yani uzayda ağlayabilirsin, ama gözyaşların Dünya'daki gibi yanağından süzülmez."}
-    ]
-  },
-  {
-    "slug": "ay-uzaklasiyor", "title": "Ay, Dünya'dan her yıl uzaklaşıyor!", "theme": "moon", "tags": ["ay", "dünya", "uzay", "shorts"],
-    "scenes": [
-      {"headline": "AY BİZDEN KAÇIYOR", "narration": "Ay, Dünya'dan her yıl biraz daha uzaklaşıyor."},
-      {"headline": "YILDA 3,8 SANTİM", "narration": "Lazer ölçümlerine göre uzaklaşma hızı yılda yaklaşık üç virgül sekiz santimetre."},
-      {"headline": "SEBEBİ GELGİT", "narration": "Okyanusların gelgit hareketi, Dünya'nın dönüşünden Ay'ın yörüngesine enerji aktarıyor."},
-      {"headline": "DÜNYA YAVAŞLIYOR", "narration": "Bu süreçte Dünya'nın dönüşü de çok yavaş biçimde yavaşlıyor."},
-      {"headline": "BUGÜN TEHLİKE YOK", "narration": "Ama endişelenme. Bu değişim insan ömrü için son derece küçük."}
-    ]
-  },
-  {
-    "slug": "cam-sivi-mi", "title": "Cam gerçekten çok yavaş akan bir sıvı mı?", "theme": "glass", "tags": ["cam", "bilim", "efsane", "shorts"],
-    "scenes": [
-      {"headline": "CAM SIVI MIDIR?", "narration": "Camın aslında çok yavaş akan bir sıvı olduğunu duydun mu?"},
-      {"headline": "BU BİR EFSANE", "narration": "Bu yaygın bilgi yanlış. Oda sıcaklığında cam bir katıdır."},
-      {"headline": "AMORF YAPI", "narration": "Kristaller gibi düzenli dizilmez. Bu nedenle ona amorf katı denir."},
-      {"headline": "ESKİ PENCERELER?", "narration": "Eski camların alt tarafının kalın olması, zamanla akmalarından kaynaklanmaz."},
-      {"headline": "ÜRETİMDEN KAYNAKLI", "narration": "Asıl neden geçmişteki üretim yöntemlerinin camı eşit kalınlıkta yapamamasıydı."}
-    ]
-  },
-  {
-    "slug": "saturn-su", "title": "Satürn dev bir okyanusta yüzebilir miydi?", "theme": "saturn", "tags": ["satürn", "gezegen", "uzay", "shorts"],
-    "scenes": [
-      {"headline": "SATÜRN YÜZER Mİ?", "narration": "Satürn'ü inanılmaz büyük bir su havuzuna koysaydık ne olurdu?"},
-      {"headline": "ÇOK HAFİF BİR DEV", "narration": "Satürn'ün ortalama yoğunluğu sudan daha düşüktür."},
-      {"headline": "TEORİDE YÜZER", "narration": "Bu yüzden basitleştirilmiş bir düşünce deneyinde yüzmesi beklenir."},
-      {"headline": "GERÇEKTE İMKÂNSIZ", "narration": "Elbette onu içine alacak dev bir su kütlesi gerçekte yok."},
-      {"headline": "YOĞUNLUK SÜRPRİZİ", "narration": "Kısacası devasa görünmek, ortalama olarak çok yoğun olmak demek değil."}
-    ]
-  },
-  {
-    "slug": "okyanusun-karanligi", "title": "Okyanusun derinlikleri neden zifiri karanlık?", "theme": "ocean", "tags": ["okyanus", "deniz", "bilim", "shorts"],
-    "scenes": [
-      {"headline": "DERİNLERDE IŞIK YOK", "narration": "Okyanusun derinliklerinde neden neredeyse hiç güneş ışığı yok?"},
-      {"headline": "SU IŞIĞI SOĞURUR", "narration": "Çünkü su, güneş ışığını derine indikçe giderek daha fazla soğurur."},
-      {"headline": "200 METREDEN SONRA", "narration": "Yaklaşık iki yüz metrenin altında fotosentez için yeterli ışık genellikle kalmaz."},
-      {"headline": "1000 METRE VE ALTI", "narration": "Bin metre civarında güneş ışığı artık pratikte yok denecek kadar azdır."},
-      {"headline": "CANLAR IŞIK ÜRETİR", "narration": "Bu yüzden bazı derin deniz canlıları kendi ışığını üretir."}
-    ]
-  },
-  {
-    "slug": "gps-zaman", "title": "GPS'in çalışması için Einstein neden gerekli?", "theme": "gps", "tags": ["gps", "einstein", "teknoloji", "shorts"],
-    "scenes": [
-      {"headline": "GPS'İ EINSTEIN KURTARIYOR", "narration": "Telefonundaki GPS, Einstein'ın görelilik kuramını hesaba katmak zorunda."},
-      {"headline": "SAATLER AYNI AKMAZ", "narration": "Uydu saatleri, hız ve yerçekimi farkı nedeniyle yerdeki saatlerle aynı hızda ilerlemez."},
-      {"headline": "38 MİKROSANİYE", "narration": "Net fark, her gün yaklaşık otuz sekiz mikrosaniyedir."},
-      {"headline": "KÜÇÜK FARK, BÜYÜK HATA", "narration": "Bu minicik zaman hatası düzeltilmezse konum hesapları hızla sapar."},
-      {"headline": "BİLİM CEBİNDE", "narration": "Yani konumunu bulurken göreliliğin düzeltmelerinden yararlanıyorsun."}
-    ]
-  }
+ {"slug":"uzayda-aglamak","title":"Uzayda ağlarsan ne olur?","scenes":[
+ {"headline":"UZAYDA AĞLARSAN?","narration":"Uzayda ağlarsan, gözyaşların yere düşmez."},
+ {"headline":"GÖZÜNDE BİRİKİR","narration":"Çünkü yörüngede sürekli serbest düşüş yaşanır. Gözyaşları yüzey gerilimiyle gözünün çevresinde birikir."},
+ {"headline":"GÖRÜŞÜNÜ ETKİLER","narration":"Biriken sıvı görüşünü bulanıklaştırabilir. Astronotlar bu yüzden gözyaşlarını mendille siler."},
+ {"headline":"ŞAŞIRTICI DEĞİL Mİ?","narration":"Yani uzayda ağlayabilirsin, ama gözyaşların Dünya'daki gibi yanağından süzülmez."}
+ ]}
 ]

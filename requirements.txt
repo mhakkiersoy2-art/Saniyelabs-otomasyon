@@ -1,6 +1,2 @@
-Pillow>=10.0
-pydub>=0.25
-edge-tts>=6.1
-# Yalnızca YouTube yüklemek için:
-google-api-python-client>=2.0
-google-auth-oauthlib>=1.0
+Pillow>=10,<13
+edge-tts>=6.1,<8

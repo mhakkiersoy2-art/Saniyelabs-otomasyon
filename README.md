@@ -1,12 +1,6 @@
-# SaniyeLabs AI Otomasyon
+# SaniyeLabs V2 — Sinematik test
 
-YouTube Shorts otomatik video üretim projesi.
+GitHub Actions > SaniyeLabs Sinematik Test > Run workflow ile çalıştırın.
+Çıktı Artifacts bölümünde MP4 olarak görünür. Otomatik YouTube yüklemesi YOKTUR.
 
-Hedef:
-- Türkçe Shorts videoları
-- Otomatik seslendirme
-- Otomatik altyazı
-- Otomatik video montajı
-- YouTube yayınlama
-
-Durum: Kurulum aşamasında.
+Not: Bu ücretsiz prototip, sinematik hareketli **prosedürel uzay illüstrasyonları** üretir; foto-gerçekçi AI video üretmez. Edge TTS için internet gerekir. Altyazı yerine sahne başlıkları gösterilir. Gerçek kelime bazlı altyazı ve AI sahne üretimi sonraki aşamadır.

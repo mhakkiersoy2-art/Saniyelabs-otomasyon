@@ -1,0 +1,32 @@
+name: SaniyeLabs Video Testi
+
+on:
+  workflow_dispatch:
+
+jobs:
+  video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Gerekli araclari kur
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg espeak
+          pip install -r requirements.txt
+
+      - name: Test videosu uret
+        run: python render.py --topic uzayda-aglamak --voice offline
+
+      - name: Videoyu indirilebilir sakla
+        uses: actions/upload-artifact@v4
+        with:
+          name: saniyelabs-test-video
+          path: output/
+          retention-days: 7
+  

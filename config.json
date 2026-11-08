@@ -1,0 +1,9 @@
+{
+ "brand": "SaniyeLab",
+ "channel_description": "30 saniyede aklını kurcalayan sorular. Bilim, uzay, teknoloji ve şaşırtıcı gerçekler. Özgün anlatım, kısa ve merak uyandıran videolar.",
+ "size": [720, 1280],
+ "fps": 15,
+ "voice": "tr-TR-AhmetNeural",
+ "publish_privacy": "private",
+ "publish_hour_tr": [12, 19]
+}
